@@ -23,3 +23,5 @@ Thumbs.db
 # Experiment-generated files
 experiments/results/*
 !experiments/results/.gitkeep
+*.mp4
+*.mp4

@@ -1,13 +1,3 @@
-"""
-Descrição estática da topologia.
-
-Este arquivo NÃO cria os namespaces nem as interfaces.
-Isso continua sendo responsabilidade do setup_topology.sh.
-
-Aqui apenas descrevemos para o algoritmo quais roteadores,
-enlaces, endereços IP e redes existem.
-"""
-
 ROUTERS = ["r1", "r2", "r3", "r4", "r5"]
 
 
