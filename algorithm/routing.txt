@@ -1,0 +1,17 @@
+routing.py
+    │
+    ├── mede a rede
+    │
+    ├── calcula caminhos
+    │
+    ├── ip route replace
+    │
+    ├── espera 5 s
+    │
+    ├── mede novamente
+    │
+    ├── recalcula
+    │
+    └── ip route replace
+
+custo = latência_ms + 2 * perda_% + 5 * hop
